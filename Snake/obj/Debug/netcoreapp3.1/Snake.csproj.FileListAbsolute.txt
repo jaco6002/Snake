@@ -1,0 +1,13 @@
+E:\Programmering\Skole\4. Semester\Snake\Snake\bin\Debug\netcoreapp3.1\Snake.exe
+E:\Programmering\Skole\4. Semester\Snake\Snake\bin\Debug\netcoreapp3.1\Snake.deps.json
+E:\Programmering\Skole\4. Semester\Snake\Snake\bin\Debug\netcoreapp3.1\Snake.runtimeconfig.json
+E:\Programmering\Skole\4. Semester\Snake\Snake\bin\Debug\netcoreapp3.1\Snake.runtimeconfig.dev.json
+E:\Programmering\Skole\4. Semester\Snake\Snake\bin\Debug\netcoreapp3.1\Snake.dll
+E:\Programmering\Skole\4. Semester\Snake\Snake\bin\Debug\netcoreapp3.1\Snake.pdb
+E:\Programmering\Skole\4. Semester\Snake\Snake\obj\Debug\netcoreapp3.1\Snake.csprojAssemblyReference.cache
+E:\Programmering\Skole\4. Semester\Snake\Snake\obj\Debug\netcoreapp3.1\Snake.csproj.CoreCompileInputs.cache
+E:\Programmering\Skole\4. Semester\Snake\Snake\obj\Debug\netcoreapp3.1\Snake.AssemblyInfoInputs.cache
+E:\Programmering\Skole\4. Semester\Snake\Snake\obj\Debug\netcoreapp3.1\Snake.AssemblyInfo.cs
+E:\Programmering\Skole\4. Semester\Snake\Snake\obj\Debug\netcoreapp3.1\Snake.dll
+E:\Programmering\Skole\4. Semester\Snake\Snake\obj\Debug\netcoreapp3.1\Snake.pdb
+E:\Programmering\Skole\4. Semester\Snake\Snake\obj\Debug\netcoreapp3.1\Snake.genruntimeconfig.cache
